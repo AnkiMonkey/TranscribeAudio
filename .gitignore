@@ -1,0 +1,25 @@
+# autosave / user data
+autosave_transcription.txt
+*.txt
+*.mp3
+*.m4a
+*.mp4
+*.aac
+*.mov
+*.wav
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# secrets / local config
+.env
+config.local.py
+
+# build
+dist/
+build/
+*.spec
+*.exe

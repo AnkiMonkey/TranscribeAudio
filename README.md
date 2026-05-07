@@ -2,6 +2,10 @@
 
 <h3 align="center">Transcribe</h3>
 
+<p align="center">
+  <img src="./1.png" alt="Transcribe GUI" width="700"/>
+</p>
+
 <!-- TABLE OF CONTENTS -->
 <details>
   <summary>Obsah</summary>
